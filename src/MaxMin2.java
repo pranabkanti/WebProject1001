@@ -33,7 +33,7 @@ public class MaxMin2 {
 				minima = arr[i];
 		}
 System.out.println("max number is: "+max);
-System.out.println("max number is: "+minima);
+System.out.println("minimam number is: "+minima);
 	}
 
 	}
